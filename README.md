@@ -16,7 +16,7 @@
 
 
 
-<img align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+<img style="margin-left:30px" align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 <h1 align="center">Hi 👋 ! I'm Omar AbdElwahhab</h1>
 <h3 align="center">Back End  Developer | Student </h3>
