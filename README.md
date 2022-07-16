@@ -1,29 +1,12 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img style="margin-left:30px" align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
+<img align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
 <h1 align="center">Hi 👋 ! I'm Omar AbdElwahhab</h1>
 <h3 align="center">Back End  Developer | Student </h3>
 
 <p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg"><img 
-        src="https://readme-typing-svg.herokuapp.com?lines=Welcome ,I'm glad you're here"></a>
+  <a href="https://github.com/JustNikhill/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome ,I'm glad you're here">
+  </a>
 </p>
 
 
