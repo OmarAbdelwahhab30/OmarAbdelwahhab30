@@ -3,11 +3,7 @@
 <h1 align="center">Hi 👋 ! I'm Omar AbdElwahhab</h1>
 <h3 align="center">Back End  Developer | Student </h3>
 
-<p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome ,I'm glad you're here">
-  </a>
-</p>
+<hr>
 
 
 <h3 align="left">Connect with me:</h3>
