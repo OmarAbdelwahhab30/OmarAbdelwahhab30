@@ -1,5 +1,6 @@
+<div align = "center">
 <img align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
-
+</div>
 <h1 align="center">Hi 👋 ! I'm Omar AbdElwahhab</h1>
 <h3 align="center">Back End  Developer | Student </h3>
 
