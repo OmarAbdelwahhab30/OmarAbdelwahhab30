@@ -16,7 +16,7 @@ Backend Engineer From Egypt.<br>Passionate About Database Systems.
 ![](https://github-profile-trophy.vercel.app/?username=omarabdelwahhab30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?quote=1%25%20better%20every%20day%20for%20365%20days%20%3D%2037x%20better)
+![](https://quotes-github-readme.vercel.app/api?quote=1%25%20better%20every%20day%20for%20365%20days%20%3D%2037x%20better&author=James%20Clear)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omarabdelwahhab30&limit=5&theme=dark&combine_all_yearly_contributions=true)
